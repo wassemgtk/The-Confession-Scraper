@@ -1,0 +1,3 @@
+sion #641
+
+I don't "close my browser to complete the logout process" when I logout of WebSTAC.

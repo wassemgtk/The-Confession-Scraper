@@ -1,0 +1,5 @@
+l,
+
+WashUConfessions.com is back up! If the new site looks funky when you visit it, try refreshing the page with Ctrl + Shift + R to refresh your browser's cache - it's probably mixing up parts of the old design and the new design. 
+
+Thanks again for being patient with me!

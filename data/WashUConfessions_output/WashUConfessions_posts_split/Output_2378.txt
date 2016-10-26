@@ -1,0 +1,7 @@
+I have a question to the admin: Would it somehow be possible to submit pictures that don't contain anything identifiable along with a confession? How would I go about doing that?
+
+====
+
+You can upload the picture online to an image hosting site and send me the link. If you're concerned about removing all data in the picture file, you can use an exif metadata remover online (http://www.verexif.com/en/) before uploading it, but when I post it online, Facebook will automatically strip the image's metadata anyway. 
+
+I've been thinking about adding image uploading functionality to WashUConfessions.com, but that'll take some time to do and I've been swamped in work the past few days. I'll work on it when I've got time if people would really like that though!

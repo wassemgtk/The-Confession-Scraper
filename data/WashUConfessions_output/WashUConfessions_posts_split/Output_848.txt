@@ -1,0 +1,7 @@
+Confessions is now available on the Darknet! 
+
+Confessions sent over the Darknet will be completely anonymous and untraceable - not by the admin, nor by WUPD, nor even by the NSA. For most people, using washuconfessions.com will provide sufficient anonymity. However, the submissions process was ported onto the Darknet to provide the maximum level of anonymity for anyone who would prefer to take advantage of privacy tools.
+
+For those who have never used the Darknet, it can be accessed with Tor. It's incredibly simple to install and feels like any other web browser. 
+
+*Edit* Tor hidden service temporarily disabled.

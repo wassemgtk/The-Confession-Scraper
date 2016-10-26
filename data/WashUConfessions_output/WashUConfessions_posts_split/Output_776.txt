@@ -1,0 +1,4 @@
+I think the new webstac design is terrible. Why fix what isn't broken? Perhaps the goal was to make it easier to navigate on mobile, but why not just coordinate with the WUSTL app developer to make it more accessible that way? Why make the desktop site so hard to navigate? Ugh!
+
+#3025 - part 2
+Adding on to the confession about the new webstac site: they just got rid of the course listings! How am I supposed to see what courses are being offered?

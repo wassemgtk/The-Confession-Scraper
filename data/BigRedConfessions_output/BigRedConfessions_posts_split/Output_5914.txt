@@ -1,0 +1,4 @@
+"I used to love the game Breakout.
+Now, because of Python, I can't even look at it.
+
+#ThanksObama"

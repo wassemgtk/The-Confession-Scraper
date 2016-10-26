@@ -1,0 +1,5 @@
+"When i first learned MATLAB it was fun. Then i picked up Java and C++ and they were really weird cause you had to declare variables and create objects and other complicated stuff.
+
+Fast forward 2 years.
+
+I have to do a project in MATLAB. Why the fuck do I not have to declare variables?"

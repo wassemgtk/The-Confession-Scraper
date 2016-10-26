@@ -1,0 +1,8 @@
+onfessions.com is back up!
+
+I'm still waiting for the domain to point to the new server, but in the meantime, the old domain is set up to redirect you after a few seconds anyway. 
+
+With the new dedicated server, submissions are going through faster than before, and page load times should be much faster!
+
+Good night!
+-Admin

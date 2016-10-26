@@ -1,0 +1,1 @@
+When I see converted PDFs written in Word for Mac OS X in a class that urges students to typeset homework solutions using LaTeX, they go straight onto the "probably wrong, grade last" pile.

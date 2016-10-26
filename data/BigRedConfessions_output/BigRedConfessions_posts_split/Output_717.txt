@@ -1,0 +1,27 @@
+"Today I calculated the probability of an undergrad finding true love at Cornell.
+
+Here’s how it goes.
+Undergraduate population: 14,393
+Gender: Percentage of the preferred gender (if you’re bisexual, lucky you, your chances are twice as high):  about 50% (it’s 49% for males and 51% for females)
+Age: Percentage within a two-year age range (ex as a freshman, I counted freshmen, sophomores, and juniors): 75%
+I'm about to assume that beauty and compatibility are qualities that are normally distributed in the Cornell population.
+Beauty: Who I find more than a standard deviation above average physical attractiveness: 31.8%
+Compatibility: Who I find more than two standard deviation above average for personality and other characteristics (kindness, intelligence, etc): 2.2%
+
+Total is 0.26% of the undergraduate population, so 38 people. This is the pool of people that I would be interested in dating.
+
+However, they would have to reciprocate my feelings.
+
+Beauty: My premise here is that beauty is subjective and in the eye of the beholder. Assuming that I’m averagely attractive, some people will think that I'm ugly and others will think I'm gorgeous. Percentage who find me more beautiful than a standard deviation above average: 31.8%
+
+Compatibility: This part is pure conjecture (as if the rest hasn’t been). I think that if Person A finds Person B compatible, then it’s more likely that Person B will find Person A compatible. I’m compensating for this by making Person B’s threshold for compatibility 1 standard deviation above the mean (instead of 2): 31.8%
+
+This yields a pool of 0.027% of the population, or 4 people, in whom I’d be interested and who would also be interested in me. These are the “true love” potentials.
+
+I estimate that I meet an average of 10 new people per week. If you’re particularly outgoing or like to keep to yourself, then you might want to adjust that number accordingly. With about 25 weeks at school per year, I’d meet 250 new people each year. This yields a 6.6% chance meeting one of them in the next year.
+
+That’s really not bad. And here’s more fun with probability: if 20 people read this, then the chance that at least one of them meets one of their matches this year is 75%. 1 - (chance of no meetings) = 1 - (1-0.066)^20 = 0.75.
+
+Credits to this article for the idea: http://en.nothingisreal.com/wiki/Why_I_Will_Never_Have_a_Girlfriend
+
+If you really like what I just did here and think we have a shot at true love, then feel free to comment! But don’t get your hopes up. The chance that you’re one of my 4 matches is only 0.027%. ;)"

@@ -1,0 +1,59 @@
+Hey there, WashU! This is going to be a little late, but I didn't want to risk having this posted on the first and mistaken as some kind of April Fool's joke.
+
+This month, as some of you might know, is Autism Awareness Month, and I wanted to talk a little about that. First of all, stereotypes of autism. I think most people are familiar with the image of the kid who bangs his head repeatedly on the wall or says one word over and over while ignoring everyone, the kid who can instantly tell you what day of the week 1/6/11 fell on but can't make up a story or talk consistently with anyone.
+
+I want you to forget those images. Those are all, again, just stereotypes of autistic people. Autism itself isn't so simple. It's a very broad and diverse continuum of differences in processing and sensing. Autistic people can't be lumped in a single box; while parts of the spectrum can be severe, "autistic" is not synonymous with "incapable", "unintelligent", "inhuman", "dumb", or any of those other terrible words.
+
+I wanted to say this because I have many, many autistic friends, and I am autistic myself.
+
+I'm sure some of you guys are curious about what being autistic is like, so I'll try to describe it as best as I can. Keep in mind that, again, autism is a very diverse spectrum, and my experiences won't necessarily reflect the experiences of all autistics.
+
+About emotions. I can feel them as strongly as anyone else does. My mind does lean towards the more logical side of things, which is probably why I'm in math and programming. But I do feel happy, anxious, depressed, and so on, even if it isn't immediately clear or if I don't show it. I was downright elated last week after surviving several tests in a row.
+
+There's a misconception that autistic people can't feel empathy. That is so very not true. Sometimes I miss social cues showing that someone is irritated or sad, but if I see that someone's sad, I feel sad. If someone's sad because of me, I feel downright horrible about it. And we definitely do care about the feelings of others. One of my friends who's autistic has a lot of social anxiety and continuously worries about getting on people's nerves.
+
+And, of course, when someone else is happy, I'm happy - and so I love to make people happy. :)
+
+I mentioned earlier that autism is about processing information differently. What is that like for me? It's a bit hard to describe, and again, autistic experiences are wildly varied. But for me, where most people think in words, I think in relations and causations. Pure patterns, with no words attached. Everything exists in a giant, 3D web to me, this causes this causes this causes that. I can sort things into groups very quickly and instantly see very fine distinctions that most people overlook.
+
+This is extremely helpful in programming, especially. Programming's all about solving problems by breaking them down into smaller and smaller problems that can be solved with very specific steps. I can't instantly tell you what day of the week 4/2/12 fell on - again, "all autistics are savants" is also a stereotype - but it's very easy for me to see how to convert the idea of a Caesar shift cipher into objects and instructions, and I can go through the program step by step and see how every line affects the others around it. I did in fact pull very high grades in CSE 131 and 132.
+
+About socializing, I have a lot of trouble socializing. It just seems like my brain can't do small talk. Whenever I try, I inevitably blank out and it becomes really awkward. I also have a bad tendency to talk at the same time as other people, or wait too long to say something. I also do have hyper-focused interests, where I can talk to you all day about neurodiversity and neuroscience, but I'm at an utter loss when discussing other topics. It's like I traded the part that lets people socialize in exchange for better pattern-thinking. I've gotten better at conversation, but it still feels like a very mechanical process to me: I pay close attention to other people's conversations, memorize their responses to certain lines, and then in my own conversations, repeat the lines in accordance to what's said, like choosing dialogue in a game or something. Or acting in a play, as Temple Grandin put it.
+
+By the way, if you haven't seen it before, you should really watch Temple Grandin's TED talk. Right here! http://www.ted.com/talks/temple_grandin_the_world_needs_all_kinds_of_minds?language=en
+
+I'm keenly aware of my surroundings. I notice very small details right away that most people overlook. This can be a very good thing. It means I'm very precise, and I can get lost just watching a pinwheel spin in the sun and admiring how the shadows and light twirl around. It can also be a very stressful things, since I can't shut it off. In environments with very loud sounds, rapidly flashing lights, lots of smells, or lots of movement - environments that neurotypical people find tolerable or exciting - I can get overwhelmed by everything coming in and need to leave, otherwise I'll have a nervous meltdown.
+
+It's not just the loaded environments, either. It's small things, too. I'm sure most of you have at least one pet peeve, at least one small thing that bugs you even though it seemingly shouldn't. It's sort of like that, but more intense. It's not just annoying - it's like poison ivy being rubbed across your mind. There's just something about some things, like sunlight making a glare on my computer, that causes my mind to get scrambled up and results in me getting incredibly anxious. I can't explain why for the life of me.
+
+I do stim. Stimming is basically making small, repetitive actions over and over. Rocking, hand flapping, and repeating words are the most stereotypical variants of stimming, but stimming can also be things like leg jiggling, stroking a soft cloth over and over, lip-chewing, and twirling objects. As for why I do it, it's like scratching an itch. Or holding onto an anchor. It grounds me, somehow, it helps me think; it's like my mind's prone to getting tangled, and this untangles it and lays everything straight. It's very calming, and if I'm getting overloaded by something, it somehow vents off the anxiety. How: again, I can't explain.
+
+So as you can see, being autistic doesn't mean I'm a robot made out of meat, or that I'm less aware, or less sentient, or less human. I'm a person just like you are, with some differences in how I think, use my senses, and calm myself. Autism is way more diverse than a kid who bangs their head on the wall and can't talk or otherwise function independently. Autism is a wide spectrum that not only includes people referred to as "low-functioning"*, but everyday people like you and me, and also geeky but brilliant programmers, mathematicians, scientists, writers, and artists. People who may be awkward and react strangely to things, but are able to also see the world in a different way and put those talents to use for everyone. :)
+
+*It should also be noted that one should be VERY careful with "functioning" labels. There's an unfortunate tendency to assume that it's all right to consider "high-functioning" autistics persons but then dehumanize those who are "less functional". Regardless of how able or "functional" someone is, a person is a person.
+
+This is already a super long post. I'm sorry! If you've made it this far, thank you. Seriously. I just have one more thing to say, and that's about Autism Awareness Month itself.
+
+Autism Awareness Month, while it seems innocuous at first, is actually really problematic. It was created and sponsored by Autism Speaks, a group that's also incredibly, incredibly problematic to the point of being considered a hate group by autistics and their allies. Here's a few facts regarding Autism Speaks:
+
+* Autism Speaks does not have a single autistic member on their board.
+* Autism Speaks spends only 3% of the money they raise back on helping families and autistic people.
+* Autism Speaks produces advertisements, small films, etc. focusing on how autistic people are a burden to society, without letting autistics talk about their own experiences.
+* Autism Speaks sponsored “Autism Every Day”, which featured a member of their board talking about contemplating murder-suicide of her daughter >in front of her daughter
+This has now been removed from Autism Speaks’ Youtube channel.
+* Autism Speaks is responsible for “I Am Autism”, a short film that features an ominous voice saying things like “I am autism… I know where you live… I work faster than pediatric AIDS, cancer, and diabetes combined… I will make sure your marriage fails.”
+* Autism Speaks often promotes long-disproven statistics. For instance, that vaccines cause autism. (They don't, seriously, look it up.)
+* Autism Speaks blocked the inclusion of the Shakowsky Amendment in the Autism CARES Act, which would have allowed autistics to further advocate for themselves and would have highlighted the intersecting needs of autistic people of color and other minorities.
+* Autism Speaks has also allied themselves with the Judge Rotenberg Center, an institution that routinely uses electroshock on autistic people as punishment for even minor infractions.
+* In short, Autism Speaks perpetuates a stereotype that autistic people are inferior, incapable, and less human, and cannot be trusted to make their own decisions and live their own lives.
+
+And much more:
+* http://goldenheartedrose.tumblr.com/post/89338501188/autism-speaks-masterpost-new-updated-6-20-14
+* https://thecaffeinatedautistic.wordpress.com/2013/03/05/why-i-am-against-autism-speaks-and-you-should-be-too-2/
+There's not only information there, but links backing up all of those claims.
+
+So, this month, please don't wear a puzzle piece, or buy fundraising candies from Autism Speaks, or otherwise support their activities. Instead of observing Autism Awareness Month, celebrate Autism Acceptance Month. Talk to someone who's autistic, or drop by ASAN, aka the Autistic Self-Advocacy Network. Don't stigmatize, but learn.
+
+Thank you for reading! :)
+
+PS: And I want to say thank you to the person/people who posted about being a multiple a week ago, and all the people who supported that post. You all inspired me to write this. Stay awesome!

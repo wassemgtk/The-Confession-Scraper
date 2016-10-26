@@ -1,0 +1,1 @@
+I'm learning about finite state machines in class, but try as I might, I cannot read FSM as anything other than Flying Spaghetti Monster.
