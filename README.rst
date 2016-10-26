@@ -4,12 +4,14 @@ ConfessionScraper Repository
 ## Installation
 The project uses the GNU-Make commands for housekeeping. Please have both GNU Make and Python 2.7 installed and available in the system `PATH`. Additionally, please have the `virtualenv` python package installed.
 
+  '$ make install'
+
 ## Workflow
 # note: without having scraped, make [sentiment|emotions|topic_models] will not be executable
 
 * Make scrape
 
-  '$ URL={yourURL string here} make scraper
+  '$ URL={yourURL string here} make scraper'
 
   e.g. '$ URL='https://www.facebook.com/BigRedConfessions/' make scraper'
   —> creates new directory for the university in data
