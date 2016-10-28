@@ -94,6 +94,6 @@ json <- createJSON(phi = FacebookPosts$phi,
                    vocab = FacebookPosts$vocab, 
                    term.frequency = FacebookPosts$term.frequency)
 
-path_to_file <- paste(c("../", "data/", output, "/", 'lda_vis_new'), collapse='')
+path_to_file <- paste(c("../", "data/", output, "/", 'lda_vis'), collapse='')
 serVis(json, out.dir = path_to_file, open.browser = FALSE)
 
