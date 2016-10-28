@@ -46,3 +46,6 @@ The project uses the GNU-Make commands for housekeeping. Please have both GNU Ma
 * [Topic Model Code](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
 * [Liwc Dictionary](http://liwc.wpengine.com/)
 
+
+![alt tag](./pantry/mockups.png)
+

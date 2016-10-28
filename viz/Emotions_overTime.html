@@ -35,8 +35,10 @@ button {
 
 <script>
 
-// chart('../data/BigRedConfessions_output/BigRedConfessions_Emotions_posts.csv', "pink");
-chart('../data/test.csv', "pink");
+chart('../data/BigRedConfessions_output/BigRedConfessions_Emotions_posts.csv', "pink");
+// chart('../data/WashUConfessions_output/WashUConfessions_Emotions_posts.csv', "pink");
+// chart('../data/beaverconfessions_output/beaverconfessions_Emotions_posts.csv', "pink");
+// chart('../data/UCBerkeleyConfessions_output/UCBerkeleyConfessions_Emotions_posts.csv', "pink");
 
 var datearray = [];
 var colorrange = [];
@@ -191,7 +193,7 @@ var graph = d3.csv(csvpath, function(data) {
       .classed("hover", false)
       .attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + pro + "</p>" ).style("visibility", "hidden");
   })
-    
+  
   var vertical = d3.select(".chart")
         .append("div")
         .attr("class", "remove")
@@ -213,6 +215,15 @@ var graph = d3.csv(csvpath, function(data) {
          mousex = d3.mouse(this);
          mousex = mousex[0] + 5;
          vertical.style("left", mousex + "px")});
+
+  // svg.select(".chart")
+  //     .append("rect")
+  //     .style("fill", "grey")
+  //     .attr("x", new Date("8/27/2016  3:35:17 PM"))
+  //     .attr("width", "10000px")
+  //     .attr("y", 100)
+  //     .attr("height", height);
+
 });
 }
 </script>

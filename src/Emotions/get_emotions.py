@@ -60,7 +60,7 @@ class Emotions(object):
           if math.isnan(val) or math.isinf(val): 
             Message.append(' ')
       except ValueError:
-        mes = status_message[6:].strip()
+        mes = status_message[1:].strip()
         Message.append(mes)
 
     df2['date'] = Date
@@ -125,7 +125,7 @@ class Emotions(object):
               emotions_in_message.append(emotions)
               to_set = emotions_in_message
 
-        emotion_set = ['anticipation', 'joy', 'negative', 'sadness', 'disgust', 'positive', 'anger', 'surprise', 'fear', 'trust']
+        emotion_set = ['positive', 'joy','anticipation', 'trust', 'surprise', 'anger',  'disgust',  'fear', 'sadness', 'negative']
 
         date, length
         for entry in emotion_set:

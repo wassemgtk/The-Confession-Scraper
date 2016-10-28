@@ -29,8 +29,15 @@ term.table <- table(unlist(doc.list))
 term.table <- sort(term.table, decreasing = TRUE)
 
 # remove terms that are stop words or occur fewer than 5 times:
+manual_pick <- c("in","there", 'wasnt', 'theyre','ive','dont', 'doesnt','didnt','im','youre','cant','wouldnt','shouldnt','couldnt','ill','well','hell','shell','Ill','youll','theyll')
+numbers_int <- seq(1, 100, by=1)
+int_strings <- sapply(numbers_int, toString)
 del <- names(term.table) %in% stop_words | term.table < 5
 term.table <- term.table[!del]
+del1 <- names(term.table) %in% manual_pick 
+term.table <- term.table[!del1]
+del2 <- names(term.table) %in% int_strings 
+term.table <- term.table[!del2]
 vocab <- names(term.table)
 
 # now put the documents into the format required by the lda package:
@@ -50,7 +57,7 @@ term.frequency <- as.integer(term.table)  # frequencies of terms in the corpus [
 
 
 # MCMC and model tuning parameters:
-K <- 20
+K <- 25
 G <- 5000
 alpha <- 0.02
 eta <- 0.02
@@ -87,6 +94,6 @@ json <- createJSON(phi = FacebookPosts$phi,
                    vocab = FacebookPosts$vocab, 
                    term.frequency = FacebookPosts$term.frequency)
 
-path_to_file <- paste(c("../", "data/", output, "/", 'lda_vis'), collapse='')
+path_to_file <- paste(c("../", "data/", output, "/", 'lda_vis_new'), collapse='')
 serVis(json, out.dir = path_to_file, open.browser = FALSE)
 
