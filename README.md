@@ -7,7 +7,7 @@ The project uses the GNU-Make commands for housekeeping. Please have both GNU Ma
   '$ make install'
 
 ## Workflow
-# note: without having scraped data following feature will not be executable: entiment|emotions|topic_models
+# note: without having scraped data following feature will not be executable: sentiment|emotions|topic_models
 
 * Make scrape
 

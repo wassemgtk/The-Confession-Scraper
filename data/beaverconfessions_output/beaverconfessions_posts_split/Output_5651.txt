@@ -1,0 +1,1 @@
+That moment when your friend asks about grammar issues and the first thing that comes to mind is whether a regex is being parsed properly

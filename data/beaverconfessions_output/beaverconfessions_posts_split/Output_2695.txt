@@ -1,0 +1,6 @@
+I hate linux. 
+I spend my nights and days fixing bugs. I've been having nightmares about the grub failing. 
+Even after all the pain it causes me, I keep going back to it. There is just something about it that enchants me. 
+Is there anyone else who feels the same? :'( 
+
+sudo apt-get install sympathy_for_the_coders

@@ -1,0 +1,1 @@
+Why do the printers ask you to name your document? 7 times out of 20 I accidentally type my Kerberos password there and the rest of the time I don't give it a name

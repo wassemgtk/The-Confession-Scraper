@@ -1,0 +1,1 @@
+verdes pay=K*1/customers served/hour

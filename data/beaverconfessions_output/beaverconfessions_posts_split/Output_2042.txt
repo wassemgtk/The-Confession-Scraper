@@ -1,0 +1,8 @@
+Re: consent ;-)
+
+Explicit is better than implicit.
+Special cases aren't special enough to break the rules.
+Errors should never pass silently.
+In the face of ambiguity, refuse the temptation to guess.
+
+(PEP 20)

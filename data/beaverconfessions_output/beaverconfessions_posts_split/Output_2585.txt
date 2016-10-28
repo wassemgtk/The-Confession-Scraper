@@ -1,0 +1,1 @@
+006 exam be like lets run BFS to find the number of students to f**k, then topological sort to figure out in what order we want to f**k them and conclude with a DFS for max penetration.

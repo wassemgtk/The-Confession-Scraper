@@ -1,0 +1,3 @@
+Normal people: How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+
+6.006 people: log n to the log log n is O of log log n to the log n

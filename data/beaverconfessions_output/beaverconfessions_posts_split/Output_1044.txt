@@ -1,0 +1,1 @@
+As taught in 6.036, the VC dimension of a classifier is the largest size d that it is capable of shattering. To find a classifier's VC dimension, find its ability to shatter larger and larger d's until the d is so large that it is unable to shatter it. Having a high VC dimension means that you're a powerful classifier because you can shatter some really large d.

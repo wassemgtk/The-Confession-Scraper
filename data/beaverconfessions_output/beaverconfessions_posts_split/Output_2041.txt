@@ -1,0 +1,3 @@
+Why does the recommended implementation of consent use polling and not the observer pattern?
+
+According to stack exchange (e.g. https://programmers.stackexchange.com/questions/102771/when-would-polling-for-events-be-better-than-using-observer-pattern), pretty much the only reason to ever use polling is when you need the data a lot less frequently than it's updated. But this is clearly not the case here.

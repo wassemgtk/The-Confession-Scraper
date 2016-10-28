@@ -1,0 +1,1 @@
+The Media Lab is such a waste of money. It makes me cringe every time I see people using Arduinos and duck-taped code fixes to make things that deserve proper controllers work.

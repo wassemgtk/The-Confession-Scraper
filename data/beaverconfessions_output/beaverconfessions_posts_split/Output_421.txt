@@ -1,0 +1,4 @@
+Student: "Can you explain what those numbers alpha and beta are?" 
+Prof: "Oh don't worry, you'll find out on the homework."
+
+Screw you too 6.034.

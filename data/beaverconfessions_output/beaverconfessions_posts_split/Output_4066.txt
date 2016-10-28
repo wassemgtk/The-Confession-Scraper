@@ -1,0 +1,9 @@
+I have a password. Your mission is to solve it as fast as possible.
+Hint: My password consists 4 DISTINCT digits.
+You can guess it many times. Every time you guess, I'll give you 2 numbers: GOLD & SILVER.
+For example, my password is 1234.
+Your guess is 4203. I will give you 1 GOLD and 2 SILVERS, which means:
+>> 1 GOLD: your guess has 1 correct digit at a correct position
+>> 2 SILVERS: your guess has 2 correct digits but their positions are incorrect
+Ready?
+http://walisu.com/psswrd/

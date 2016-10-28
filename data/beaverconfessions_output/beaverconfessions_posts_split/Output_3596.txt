@@ -1,0 +1,3 @@
+The week before spring break, the stress load becomes 2-e^(-Theta(t)) weeks' worth: t is the number of days since Monday.
+
+It's really awful that spring break has come to mean a week of recovery from the hell that is back-to-back exams and double-work psets. As if our lives as undergrads weren't stressful enough as it is.

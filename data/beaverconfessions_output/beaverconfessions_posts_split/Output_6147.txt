@@ -1,0 +1,1 @@
+I think we should require MIT certificate authentication to post confessions.

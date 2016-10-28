@@ -1,0 +1,1 @@
+My grade in 6.006 is just a constant, so it's the same grade that everyone else has, right?

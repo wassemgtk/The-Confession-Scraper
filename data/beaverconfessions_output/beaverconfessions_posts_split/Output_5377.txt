@@ -1,0 +1,1 @@
+Why is the definition of "smooth manifold" such a hodgepodge? You can't even define an integral on a smooth manifold $M$ without referring to partition of unity on an open cover $\{U_\alpha\}$ of $M$. It's terrible.

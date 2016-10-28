@@ -1,0 +1,1 @@
+What's the probability that the club does not go up on a tuesday? Is the relationship between the days  of the week and the state of the club correlated or causal.

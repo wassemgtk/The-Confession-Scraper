@@ -1,0 +1,1 @@
+6.005 is teaching me to write code reasonable-looking enough that my reviewers won't say it's unreadable, but unreadable enough that lazy reviewers will skip over it, comment "good job" somewhere and move on.

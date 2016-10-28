@@ -1,0 +1,3 @@
+When more than half the questions on Piazza are about quirks of the submission website, rather than the pset itself, you might want to rethink your submission website.
+
+...looking at you, 6.006.

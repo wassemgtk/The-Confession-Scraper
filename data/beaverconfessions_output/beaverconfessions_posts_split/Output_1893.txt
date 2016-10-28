@@ -1,0 +1,1 @@
+You know you're deep into your 6.005 project when you're texting, and the first thing that pops to mind when you read 'AF' is 'Abstraction Function'. Can I just abstract this class from my life already?

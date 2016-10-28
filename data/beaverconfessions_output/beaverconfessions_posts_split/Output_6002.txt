@@ -1,0 +1,1 @@
+There should an interesting-ness threshold for all HASS classes. If they don't pass it, then they should not be allowed to run for more than an hour... I did not foresee so much bullshit when I decided to take this.

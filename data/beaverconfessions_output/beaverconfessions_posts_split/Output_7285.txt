@@ -1,0 +1,1 @@
+I literally solved the maze by hand to find the shortest path instead of coding it.

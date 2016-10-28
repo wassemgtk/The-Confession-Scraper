@@ -1,0 +1,1 @@
+at first i thought two-factor authentication was going to be a pain in the ass, but then i installed it and realized that (on average) it's only 1.03333333333-factor authentication and is only slightly more annoying (and negligibly more secure) than one-factor authentication

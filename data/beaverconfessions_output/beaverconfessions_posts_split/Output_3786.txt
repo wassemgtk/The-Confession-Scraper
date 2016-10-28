@@ -1,0 +1,1 @@
+If you are using a mailing list for sensitive memberships, please realize that any MIT student has access to see hidden list memberships if they're clever enough or hear about it from the right people. You should not use moira lists for private info. Mailman lists have no vulnerabilities that I know of tho

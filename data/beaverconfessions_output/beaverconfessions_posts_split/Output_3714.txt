@@ -1,0 +1,3 @@
+Trying to understand stacks for 6.004 and I'm here like:
+
+https://youtu.be/NkKOeeYko7w?t=88
