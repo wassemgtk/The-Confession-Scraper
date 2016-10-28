@@ -7,7 +7,7 @@ The project uses the GNU-Make commands for housekeeping. Please have both GNU Ma
   '$ make install'
 
 ## Workflow
-# note: without having scraped, make [sentiment|emotions|topic_models] will not be executable
+# note: without having scraped data following feature will not be executable: entiment|emotions|topic_models
 
 * Make scrape
 
@@ -43,7 +43,7 @@ The project uses the GNU-Make commands for housekeeping. Please have both GNU Ma
 
 
 ## References
-* [Topic Model Code](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
+* [LDAvis](http://cpsievert.github.io/LDAvis/reviews/reviews.html)
 * [Liwc Dictionary](http://liwc.wpengine.com/)
 
 
