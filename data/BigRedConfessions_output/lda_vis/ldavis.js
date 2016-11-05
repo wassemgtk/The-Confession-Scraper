@@ -1,4 +1,4 @@
-LDAvis = function(to_select, json_file) {
+LDAvis = function(to_select, json_file) { //'LDAvis' is not defined. (no-undef) is not defined
 
     // This section sets up the logic for event handling
     var current_clicked = {
@@ -102,7 +102,7 @@ LDAvis = function(to_select, json_file) {
 
         // a (K x 5) matrix with columns x, y, topics, Freq, cluster (where x and y are locations for left panel)
         mdsData = [];
-        for (var i = 0; i < K; i++) {
+        for (var i = 0; i < K; i++) { //'i' used outside of binding context block-scoped-var 
             var obj = {};
             for (var key in data['mdsDat']) {
                 obj[key] = data['mdsDat'][key][i];
@@ -113,9 +113,9 @@ LDAvis = function(to_select, json_file) {
         // a huge matrix with 3 columns: Term, Topic, Freq, where Freq is all non-zero probabilities of topics given terms
         // for the terms that appear in the barcharts for this data
         mdsData3 = [];
-        for (var i = 0; i < data['token.table'].Term.length; i++) {
+        for (var i = 0; i < data['token.table'].Term.length; i++) { //'i' is already defined no-redeclare
             var obj = {};
-            for (var key in data['token.table']) {
+            for (var key in data['token.table']) { //'key' is already defined. (no-redeclare)
                 obj[key] = data['token.table'][key][i];
             }
             mdsData3.push(obj);
