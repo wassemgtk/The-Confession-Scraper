@@ -1,15 +1,15 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 import pandas as pd
-import numpy as array
+import numpy as array # Unused numpy imported as array
 import csv
 import string
 import datetime
-import os, sys
-import collections
+import os, sys # Unused import sys 
+import collections # Unused import collections
 import itertools
 import random
-from time import sleep
+from time import sleep # Unused imports are dead code, bringing no value to the code.
 import math
 
 
@@ -28,7 +28,7 @@ class Emotions(object):
   def preprocess(self):
     time = datetime.datetime.now()
     df2 = pd.read_csv(self.file)
-    status_new = df2['status_id'][0]
+    status_new = df2['status_id'][0] # Unused variable 'status_new'
     
     Date = []
     Message = []
@@ -43,7 +43,7 @@ class Emotions(object):
     for i in range(len(df2['status_published'])):
       b = df2['status_published'][i].split(':')
       k += 1
-      try: 
+      try: #Trailing whitespace :p
         num = a[k]
       except IndexError:
         k = 0
@@ -83,7 +83,7 @@ class Emotions(object):
   def train(self):
     print "This will take some time, please have patience: %s" % (datetime.datetime.now())
     num_processed = 0
-    time1 = datetime.datetime.now()
+    time1 = datetime.datetime.now() # Unused variable 'time1'
     with open(self.preprocessed_file,'rb') as csvfile:
       all_dates = []
       all_emotions = []
@@ -127,7 +127,7 @@ class Emotions(object):
 
         emotion_set = ['positive', 'joy','anticipation', 'trust', 'surprise', 'anger',  'disgust',  'fear', 'sadness', 'negative']
 
-        date, length
+        date, length # Statements that don't have any side-effect and whose return value isn't used.
         for entry in emotion_set:
           count = emotions_in_message.count(entry)
           value =  float(count)/float(length)
