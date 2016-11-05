@@ -1,7 +1,7 @@
 import click
-from functools import partial
+from functools import partial # Unused partial imported from functools
 import os
-import sys
+import sys # Unused import sys
 import imp
 # importing files
 
@@ -72,7 +72,7 @@ def liwc(url):
   page_id = page_id_and_access_token[0]
   LIWC_Posts(page_id).getLiwcData()
   LIWC_Posts(page_id).addDates()
-  Revealer  = RevealWordsOfPosts(page_id).getLiwcWords()
+  Revealer  = RevealWordsOfPosts(page_id).getLiwcWords() # Unused variable 'Revealer'
 
 @cli.command()
 @click.option('--url', '-u', default='https://www.facebook.com/BigRedConfessions/')
