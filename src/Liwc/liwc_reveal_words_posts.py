@@ -2,20 +2,20 @@ import csv
 from collections import defaultdict
 import string
 import pandas as pd
-import sys
+import sys # Unused import sys
 import datetime
 import os
-from pprint import pprint
+from pprint import pprint # Unused pprint imported from pprint
 # pp = pprint.PrettyPrinter(indent=4)
 
 
-class LIWC_Index_Count():
+class LIWC_Index_Count(): # Very old style class defined :)
     def category_matches(self, doc, categories):
         all_words = {}
         time = datetime.datetime.now()
         print "\nContinue with checking categories, can take some time: %s\n" % (time)
         ''' Returns a mapping of LIWC category -> number of occurrences in the given doc '''
-        num_matches = defaultdict(int)
+        num_matches = defaultdict(int) # Unused variable 'num_matches'
         words = doc.lower().split(' ')
         words_no_punct = [''.join(ch for ch in token if not ch in string.punctuation) for token in words] 
         for w in words_no_punct:
@@ -37,7 +37,7 @@ class LIWC_Index_Count():
     
     def __init__(self):
         (self.LIWC_stem_to_cats, self.LIWC_cat_to_stems) = self.__init_LIWC_dict__()
-    def __init_LIWC_dict__(self):    
+    def __init_LIWC_dict__(self):   # Method could be a function :-|
         cat_col_map = {
             'Funct':[0,1,2],
             'Pronoun':[3],
