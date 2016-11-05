@@ -2,7 +2,7 @@ from collections import defaultdict
 import csv
 import string
 import os
-import pandas as pd
+import pandas as pd # Unused pandas imported as pd
 
 
 class LIWC_Index(): 
@@ -31,7 +31,7 @@ class LIWC_Index():
         #             num_matches[cat]+=1
         return num_matches
     
-    def __init__(self):
+    def __init__(self): #method already defined line 9
         (self.LIWC_stem_to_cats, self.LIWC_cat_to_stems, self.emoticons) = self.__init_LIWC_dict__()
     def __init_LIWC_dict__(self):    
         cat_col_map = {
