@@ -1,11 +1,11 @@
 import csv
 import pandas as pd
 import imp
-from os import sys
+from os import sys # Unused sys imported from os
 LIWC_Index = imp.load_source('LIWC_Index', './Liwc/liwc_helper.py')
 from LIWC_Index import LIWC_Index
-from os import sys
-from pandas import DataFrame
+from os import sys # Reimport 'sys' (imported line 4)
+from pandas import DataFrame # Unused DataFrame imported from pandas
 import datetime
 import string
 
@@ -29,7 +29,7 @@ class LIWC_Posts(object):
 
             with open(self.file, 'rb') as csvfile:
               confessions =  csv.DictReader(csvfile)
-              all_status_messages = []
+              all_status_messages = [] # Unused variable 'all_status_messages'
               new = LIWC_Index()
               for row in confessions: 
                 single_status_message = row['status_message'][4:].strip()
@@ -61,7 +61,7 @@ class LIWC_Posts(object):
                 len_messages.append(length)
 
         csv_file = self.file_new
-        file = pd.read_csv(csv_file)
+        file = pd.read_csv(csv_file) # Redefining built-in 'file'
         # print len_messages
         file["Date"] = dates
         file["Status_id"] = status_id
