@@ -1,7 +1,7 @@
 import urllib2
 import json
 import datetime
-import csv
+import csv # Unused import csv
 import time
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
@@ -25,7 +25,7 @@ class CommentScraper(object):
         data = json.loads(response.read())
         print json.dumps(data, indent=4, sort_keys=True)
 
-    def request_until_succeed(self, url):
+    def request_until_succeed(self, url): # Method could be a function (when there is no reference to the class, suggesting that the method could be used as a static function instead If the class method )
         req = urllib2.Request(url)
         success = False
         while success is False:
@@ -56,20 +56,20 @@ class CommentScraper(object):
         data = json.loads(self.request_until_succeed(url))
         return data
         
-    def processFacebookPageFeedStatus(self, status):
-        status_id = status['id']
+    def processFacebookPageFeedStatus(self, status): # Method could be a function 
+        status_id = status['id'] # Unused variable 'status_id'
 
         try:
-            num_comments = 0 if 'comments' not in status.keys() else status['comments']['summary']['total_count']
+            num_comments = 0 if 'comments' not in status.keys() else status['comments']['summary']['total_count'] # Unused variable 'num_comments'
         except KeyError:
             num_comments = 0
             print 'COMMENTS FAILS'
 
         try:
             if status['comments']['summary']['total_count'] == 0:
-                comment_id = 0
+                comment_id = 0 # Unused variable 'comment_id'
                 comment_message = 0
-                comment_author = 0
+                comment_author = 0 # Unused variable 'comment_author'
                 comment_published= 0
             else:
                 # with open('../output/%s_facebookScraper_Comments.csv' % self.page_id, 'wb') as file:
